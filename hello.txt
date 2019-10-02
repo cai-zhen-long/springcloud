@@ -1,1 +1,2 @@
-hello  caicai  123
+server 
+  port: 8080
